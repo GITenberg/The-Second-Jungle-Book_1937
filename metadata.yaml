@@ -1,0 +1,48 @@
+_repo: The-Second-Jungle-Book_1937
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: "The Second Jungle Book is a sequel to The Jungle Book by Rudyard Kipling.\
+  \ First published in 1895, it features five stories about Mowgli and three unrelated\
+  \ stories, all but one set in India, most of which Kipling wrote while living in\
+  \ Vermont. All of the stories were previously published in magazines in 1894-5,\
+  \ often under different titles. The original book is now worth $3.4 million.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Scouts
+- Children's Literature
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1937'
+  wikidata: Q1101819
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mowgli (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Jungle animals -- Fiction'
+- !lcsh 'India -- Fiction'
+- GITenberg
+title: The Second Jungle Book
+url: http://www.gutenberg.org/ebooks/1937
+wikipedia:
+- https://nl.wikipedia.org/wiki/Het_tweede_jungleboek
+- https://fa.wikipedia.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8_%D8%AF%D9%88%D9%85_%D8%AC%D9%86%DA%AF%D9%84
+- https://en.wikisource.org/wiki/The_Second_Jungle_Book
+- https://en.wikipedia.org/wiki/The_Second_Jungle_Book
+- https://it.wikipedia.org/wiki/Il_secondo_libro_della_giungla
+- https://no.wikipedia.org/wiki/Den_andre_jungelboken
+- https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%B4%D0%B6%D1%83%D0%BD%D0%B3%D0%BB%D0%B5%D0%B9
+- https://fr.wikisource.org/wiki/Le_Second_Livre_de_la_jungle
